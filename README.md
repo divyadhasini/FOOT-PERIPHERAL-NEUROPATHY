@@ -33,5 +33,3 @@ Peripheral Neuropathy impairs peripheral sensory nerve function in the feet, sig
 * **Real-Time Alert System:** Multi-channel alerting (Push Notifications, SMS, Clinician Dashboard) triggered on critical anomalies.
 
 ---
-
-## 🏗 System Architecture
